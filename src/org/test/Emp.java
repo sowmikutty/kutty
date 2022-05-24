@@ -3,7 +3,7 @@ package org.test;
 public class Emp {
 	public void empId() {
 		System.out.println("Employee Id is 22");
-			
+		System.out.println("Employee Id is 444");	
 	}
 	public void empName() {
 		System.out.println("Employee name is baby");
